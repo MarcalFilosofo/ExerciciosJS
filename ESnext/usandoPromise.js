@@ -1,4 +1,4 @@
-const { promises } = require('fs')
+
 const http = require('http')
 
 const getTurma = letra =>{
